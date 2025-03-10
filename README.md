@@ -1,30 +1,36 @@
-### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
-This is the place where I opensource stuff and break things :rofl:
+# Hi there, I'm Nguyen Nora 👋
 
-- 🔭 &nbsp;I’m currently working on something cool :wink:
-- 🌱 &nbsp;I’m currently learning PHP, ReactJS
-- 💬 &nbsp;Ask me about anything related to Javascript/Typescript/Python or Angular/React/Express/Flask
-- 👨‍💻 &nbsp;Read more about my projects here
-- ⚡ &nbsp;Fun fact: I :heart: :dog:s and League Of Legend
+I'm a passionate software developer with a keen interest in open-source projects and continuous learning. I enjoy solving complex problems and contributing to the tech community.
 
-📕 &nbsp;**Latest Blog Posts**
-<!-- BLOG-POST-LIST:START -->
+## 🌱 What I'm currently learning
+- Advanced algorithms and data structures
+- Cloud computing with AWS and Azure
+- Modern web frameworks like Next.js and Svelte
 
-<!-- BLOG-POST-LIST:END -->
+## 💼 Professional Experience
+- **Software Engineer at Tech Innovators Inc.**
+  - Developed and maintained web applications using React and Node.js
+  - Implemented CI/CD pipelines using GitHub Actions and Jenkins
+  - Collaborated with cross-functional teams to deliver high-quality software solutions
 
-🔗 &nbsp;**Connect with me**
-<p align="left">
-<a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-<a href="https://www.fb.com/norahieunguyen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4214976" height="30" width="40" /></a>
-<a href="https://www.instagram.com/norahieunguyen/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+- **Junior Developer at CodeCrafters**
+  - Assisted in the development of e-commerce platforms
+  - Worked on bug fixes and feature enhancements for legacy systems
+  - Participated in code reviews and team meetings
 
-📊 &nbsp;**This week I spent my time on**
-  
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-  
-### ✨&nbsp; About Me
+## 🔧 Technologies & Tools
+- **Languages**: JavaScript, PHP, Python, Java
+- **Frameworks**: React, Node.js, Express, Django
+- **Databases**: MongoDB, PostgreSQL, MySQL
+- **Tools**: Git, Docker, Kubernetes, Jenkins
+- **Cloud**: AWS, Azure
 
-I am a Developer with no experience in developing enterprise applications and open-source software.
+## 📫 How to reach me
+- **Email**: norahieunguyen@gmail.com
+- **LinkedIn**: [linkedin.com/in/nguyen-nora](https://linkedin.com/in/nguyen-nora)
+- **GitHub**: [github.com/nguyen-nora](https://github.com/nguyen-nora)
+
+## 💬 Let's connect!
+I'm always open to discussing new projects, ideas, or opportunities to collaborate. Feel free to reach out to me!
+
+![Nguyen Nora's GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyen-nora&show_icons=true&theme=radical)
