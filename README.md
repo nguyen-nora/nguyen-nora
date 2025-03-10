@@ -27,7 +27,7 @@ I'm a passionate software developer with a keen interest in open-source projects
 
 ## 📫 How to reach me
 - **Email**: norahieunguyen@gmail.com
-- **LinkedIn**: [linkedin.com/in/nguyen-nora](https://linkedin.com/in/nguyen-nora)
+- **LinkedIn**: [linkedin.com/in/nguyen-nora](https://linkedin.com/in/norahieunguyen)
 - **GitHub**: [github.com/nguyen-nora](https://github.com/nguyen-nora)
 
 ## 💬 Let's connect!
