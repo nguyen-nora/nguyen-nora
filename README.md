@@ -11,8 +11,9 @@ I'm a passionate software developer with a keen interest in open-source projects
 ## 💼 Professional Experience
 - **Software Engineer & IT Help Desk at DOIT Solutions.**
   - Developed and maintained web Wordpress.
-  - Web API ASP .NET C#
   - Work on several network system design projects, router configuration, and related tasks.
+- - **Software Engineer at VK Software.**
+  - Web API ASP .NET C#
 
 ## 🔧 Technologies & Tools
 - **Languages**: JavaScript, PHP, Python, Java
