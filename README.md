@@ -4,18 +4,20 @@ I'm a passionate software developer with a keen interest in open-source projects
 
 ## 🌱 What I'm currently learning
 - SEO (Search Engine Optimization)
-- Web Developer with PHP or python
+- Web Developer with PHP, python or C#
 - IT Help Desk
+
 
 ## 💼 Professional Experience
 - **Software Engineer & IT Help Desk at DOIT Solutions.**
   - Developed and maintained web Wordpress.
+  - Web API ASP .NET C#
   - Work on several network system design projects, router configuration, and related tasks.
 
 ## 🔧 Technologies & Tools
 - **Languages**: JavaScript, PHP, Python, Java
-- **Frameworks**: React, Node.js, Wordpress
-- **Databases**: MongoDB, PostgreSQL, MySQL
+- **Frameworks**: React, Node.js, Wordpress, C#
+- **Databases**: MongoDB, PostgreSQL, MySQL, SQLite
 - **Tools**: Git, Docker
 - **Cloud**: AWS, Azure
 
