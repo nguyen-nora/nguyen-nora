@@ -12,7 +12,7 @@ I'm a passionate software developer with a keen interest in open-source projects
 - **Software Engineer & IT Help Desk at DOIT Solutions.**
   - Developed and maintained web Wordpress.
   - Work on several network system design projects, router configuration, and related tasks.
-- - **Software Engineer at VK Software.**
+- **Software Engineer at VK Software.**
   - Web API ASP .NET C#
 
 ## 🔧 Technologies & Tools
